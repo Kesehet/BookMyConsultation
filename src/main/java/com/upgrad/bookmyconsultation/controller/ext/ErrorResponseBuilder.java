@@ -2,8 +2,7 @@
  * Copyright 2017-2018, Redux Software.
  *
  * File: ErrorResponseBuilder.java
- * Date: Oct 13, 2017
- * Author: P7107311
+ * Date: Oct 13, 2017P7107311
  * URL: www.redux.com
  */
 package com.upgrad.bookmyconsultation.controller.ext;

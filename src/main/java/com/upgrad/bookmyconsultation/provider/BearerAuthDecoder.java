@@ -2,8 +2,7 @@
  * Copyright 2017-2018, Redux Software.
  *
  * File: BearerAuthDecoder.java
- * Date: Nov 10, 2017
- * Author: P7107311
+ * Date: Nov 10, 2017P7107311
  * URL: www.redux.com
  */
 package com.upgrad.bookmyconsultation.provider;

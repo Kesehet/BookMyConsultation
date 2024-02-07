@@ -2,8 +2,7 @@
  * Copyright 2017-2018, Redux Software. 
  * 
  * File: BasicAuthProvider.java
- * Date: Oct 30, 2017
- * Author: P7107311
+ * Date: Oct 30, 2017P7107311
  * URL: www.redux.com
 */
 package com.upgrad.bookmyconsultation.provider;

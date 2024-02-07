@@ -1,9 +1,6 @@
 /*
- * Copyright 2018-2019, https://beingtechie.io.
  *
  * File: UnexpectedException.java
- * Date: May 5, 2018
- * Author: Thribhuvan Krishnamurthy
  */
 package com.upgrad.bookmyconsultation.exception;
 
